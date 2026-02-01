@@ -1,0 +1,25 @@
+footer a {
+  text-decoration: none;
+}
+
+#supportHero {
+  background-color: rgb(57, 125, 208);
+  color: white;
+}
+
+#supportHero input {
+  padding: 10px 50px;
+  width: 100%;
+  border: none;
+  border-radius: 12px;
+}
+
+#supportHero a {
+  color: white;
+  margin-right: 2rem;
+}
+
+#supportWrapper {
+  display: flex;
+  flex-direction: row;
+}
