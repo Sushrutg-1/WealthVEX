@@ -13,7 +13,7 @@ function HeroSection() {
           </div>
           <div className="row text-center p-5">
             <div className="col-4 px-5">
-              <img src="../media/images/pricingEquity.svg" alt="" />
+              <img src="../media/images/pricingEquity.svg" alt="Pricing" />
               <h3> Free equity delivery </h3>
               <p className="text-muted">
                 All equity delivery investments (NSE, BSE), are absolutely free
